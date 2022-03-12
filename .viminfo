@@ -27,14 +27,27 @@
 # Registers:
 
 # File marks:
-'0  1  12  ~/file1
-|4,48,1,12,1647109622,"~/file1"
+'0  1  0  ~/.git/COMMIT_EDITMSG
+|4,48,1,0,1647110621,"~/.git/COMMIT_EDITMSG"
+'1  1  12  ~/file1
+|4,49,1,12,1647109622,"~/file1"
 
 # Jumplist (newest first):
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1647110621,"~/.git/COMMIT_EDITMSG"
+-'  1  12  ~/file1
+|4,39,1,12,1647109622,"~/file1"
 -'  1  12  ~/file1
 |4,39,1,12,1647109622,"~/file1"
 
 # History of marks within files (newest to oldest):
+
+> ~/.git/COMMIT_EDITMSG
+	*	1647110301	0
+	"	1	0
+	^	1	0
+	.	1	0
+	+	1	0
 
 > ~/file1
 	*	1647109606	0
